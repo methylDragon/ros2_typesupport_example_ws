@@ -1,0 +1,2 @@
+bool example_member_aaa
+int8 example_member_bbb

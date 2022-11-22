@@ -1,0 +1,7 @@
+{
+  "package_name": "ts_example_msgs",
+  "non_idl_tuples": [
+    "/home/methyldragon/Desktop/ros_workspaces/msgs_ws/src/ts_example_msgs:msg/Example.msg",
+    "/home/methyldragon/Desktop/ros_workspaces/msgs_ws/src/ts_example_msgs:msg/NestedExample.msg"
+  ]
+}

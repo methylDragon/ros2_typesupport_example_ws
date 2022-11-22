@@ -1,0 +1,4 @@
+source;share/ts_example_msgs/local_setup.bash
+source;share/ts_example_msgs/local_setup.dsv
+source;share/ts_example_msgs/local_setup.sh
+source;share/ts_example_msgs/local_setup.zsh

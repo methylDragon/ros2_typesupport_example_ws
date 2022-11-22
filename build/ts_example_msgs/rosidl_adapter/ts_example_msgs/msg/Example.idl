@@ -1,0 +1,14 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from ts_example_msgs/msg/Example.msg
+// generated code does not contain a copyright notice
+
+
+module ts_example_msgs {
+  module msg {
+    struct Example {
+      boolean example_member_aaa;
+
+      int8 example_member_bbb;
+    };
+  };
+};
